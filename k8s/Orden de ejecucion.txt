@@ -1,0 +1,10 @@
+- 00-namespace.yaml
+- 01-db-postgres-deployment.yaml
+- 02-db-postgres-service.yaml
+- 03-db-redis-deployment.yaml
+- 04-db-redis-service.yaml.
+- 05-worker-deployment.yaml.
+- 06-vote-deployment.yaml.
+- 08-result-deployment.yaml.
+- 07-vote-service.yaml
+- 09-result-service.yaml
